@@ -14,6 +14,8 @@ Options:
   -p, --port PORT      Port node is listening on (default: 9999)
 
 """
+
+# quiz
 import logging
 import os
 import socket
